@@ -1,8 +1,8 @@
 ---
-title: "**Introduction to Computational Social Science: concepts, tools and challenges**"
-subtitle: "**Programa de Pós-Graduação em Sociologia UnB - SOL**"
+title: "**As grandes cidades e a vida do espírito - 1903**"
+subtitle: "**Georg Simmel**"
 author:
-- Leonardo Nascimento (PPGCS/ICTI/LABHD/UFBA)
+- Leonardo Nascimento (PPGCS/LABHDUFBA)
 date: "`r Sys.Date()`"
 encoding: "UTF-8"
 output:
@@ -77,80 +77,95 @@ knitr::include_graphics("img/labhd.png")
 **Youtube**: [https://www.youtube.com/c/LABHDUFBA](https://www.youtube.com/c/LABHDUFBA)
 
 ---
+class: inverse, center, middle
+
+# Objetivo da aula
+
+---
+class: center, middle
+
+## Apresentar as principais ideias do texto "As grandes cidades e a vida do espírito" (Simmel, 1903) e discutir como elas podem ser úteis para a compreensão da vida social contemporânea.
+
+
+---
+class: inverse, center, middle
+
+# Foi difícil a leitura?? 
+# 🤔😱🤔😱
+
+---
 class: middle, center
 
-# Pesquisa atual
---
+# Quem foi Georg Simmel(1858-1918)?
 
 ```{r, out.width="100%"}
-knitr::include_graphics("img/telegram-2.png")
+
+knitr::include_graphics("img/Simmel.jpg")
+
 ```
 
-### + info [clique](https://internetlab.org.br/pt/noticias/analisando-os-ecossistemas-de-desinformacao-politica-no-telegram-durante-o-periodo-eleitoral/) 
+---
+class: inverse, middle, center
+
+# Qual a ideia central do texto?
+# 📔📕📖📗📘📙📚
+
+---
+class: center, middle
+
+--
+## 1) análise das transformações psicológicas e sociais provocadas pela vida nas grandes cidades modernas;
+<br>
+
+--
+## 2) o contraste entre a vida nas cidades grandes e pequenas;
+<br>
+
+--
+## 3) como a economia monetária (e o dinheiro! 🤑👛🏦💰💴) promovem uma visão mais objetiva e despersonalizada das relações humanas. 
+
+---
+class: center, middle
+
+# O que são "grande cidades" (*Grossstädte*) em 1908? 
+<br>
+
+--
+## 1) Assim eram definidas as cidades que tinham mais de cem mil habitantes. 
+<br>
+
+--
+## 2) De 1871 a 1910 na Alemanha o número dessas cidades passou de oito para quarenta e oito (Gay, 1989a, p.45)
+
+---
+class: inverse, middle, center
+
+## 1) Aumento quantitativo e mudanças qualitativas!
+
+```{r, out.width="100%"}
+knitr::include_graphics("https://media.giphy.com/media/Dumy6VxTrZfS8/giphy.gif")
+```
 
 ---
 class: middle, center
 
-# Financiamento
+--
+# Ocorre não apenas uma mudança física (construções, estradas, meios de transporte, interior das residências).
+<br>
 
-.pull-left[
-```{r, out.width="80%"}
-knitr::include_graphics("img/cnpq.jpg")
-```
-]
-.pull-right[
-```{r, out.width="90%"}
-knitr::include_graphics("img/internetlab.png")
-```
-]
+--
+# Tudo isto representa um precipitado, uma cristalização *in vivo*, da forma como as relações sociais se modificaram nos "centros urbanos"...
+<br>
 
 ---
 class: inverse, center, middle
 
-# Objetivo do encontro
-
----
-class: center, middle
-
-# Apresentar um panorama da Ciência Social Computacional (CSC) e sua relação com a Sociologia/Antropologia/História/Humanidades Digitais, enfatizando conceitos, ferramentas e desafios!
-
----
-class: inverse, middle, center
-
-# Desafios
-
-```{r, out.width="80%"}
-knitr::include_graphics("https://media.giphy.com/media/MJgPOGVdwyOaxu0R3L/giphy.gif")
-```
-
----
-class: center, middle
-
-# De onde vem os atuais desafios? 
-<br>
-
---
-## 1) "Digitalização do eu na vida cotidiana" (Nascimento, 2020);
-<br>
-
---
-## 2) Efeitos da "digitalização" sobre a produção de conhecimento nas Humanidades.
-
----
-class: inverse, middle, center
-
-## 1) "Digitalização do eu na vida cotidiana" (Nascimento, 2020)
-
-```{r, out.width="80%"}
-knitr::include_graphics("img/ds.jpeg")
-```
----
-class: inverse, center, middle
-
-## Algoritmização de processos sociais
+## Intensificação da vida nervosa 😥😟😧😨😰💗
 
 ```{r, out.width="60%"}
-knitr::include_graphics("img/matrix-digital-self.png")
+
+knitr::include_graphics("https://media.giphy.com/media/pDdzX4l9jqA80/giphy.gif")
+
 ```
 
 ---
