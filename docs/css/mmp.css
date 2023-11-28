@@ -142,9 +142,9 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* Add image and change bg color */
 .title-slide {
-  background-image: url(https://thumbs.gfycat.com/AccomplishedShinyKoodoo-max-1mb.gif);
+  background-image: url(imagens/logo.jpg);
   background-position: 50% 15%;
-  background-size: 300px;
+  background-size: 400px;
   background-color: #fff;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
   margin: auto;
@@ -155,7 +155,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
   color: #515151;
   padding-top: 250px;
   font-weight: normal;
-  font-size: 65px;
+  font-size: 60px;
 
   text-align: center;
   text-shadow: none;
